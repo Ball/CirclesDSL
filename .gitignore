@@ -1,0 +1,8 @@
+*.suo
+.nu/*
+_ReSharper.*
+*ReSharper.user
+*/bin/*
+*/obj/*
+.*~
+.*.swp
